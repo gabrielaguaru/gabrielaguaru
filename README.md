@@ -1,9 +1,9 @@
-<h1> Olá! Sou a Gabriela Souza, desenvolvedora front-end. </h1>
+Olá! Sou a Gabriela Souza, desenvolvedora front-end.
 
 <div>
   <a href="https://github.com/gabrielaguaru">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gabrielaguaru&show_icons=true&theme=jolly&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielaguaru&&layout=compact&hide=shell&theme=jolly"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=gabrielaguaru&show_icons=true&theme=jolly&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielaguaru&&layout=compact&hide=shell&theme=jolly"/>
 </div>
   
   <div style="display: inline_block"><br>
@@ -24,11 +24,11 @@
 
   <img align="right" alt="Kakashi Gif" height="150" style="border-radius:50px;" src="https://c.tenor.com/Z6Gqy-qS-EQAAAAM/kakashi-naruto.gif">
 </div>
-  
+  ##
  <br>
-<div  align="center"> 
+<div> 
   <a href="https://www.instagram.com/gabiesz/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/gabriela-souza-4538001b1/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="https://www.linkedin.com/in/gabrielasouza-/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href = "mailto:gabrielasouza.dev@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
  
   ![Snake animation](https://github.com/gabrielaguaru/gabrielaguaru/blob/output/github-contribution-grid-snake.svg)
