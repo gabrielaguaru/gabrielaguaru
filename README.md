@@ -1,4 +1,4 @@
-Olá! Sou a Gabriela Souza, desenvolvedora front-end.
+## Oiee! Sou a Gabriela Souza, desenvolvedora front-end.
 
 <div>
   <a href="https://github.com/gabrielaguaru">
@@ -23,7 +23,7 @@ Olá! Sou a Gabriela Souza, desenvolvedora front-end.
   <img align="right" alt="Kakashi Gif" height="150" style="border-radius:50px;" src="https://c.tenor.com/Z6Gqy-qS-EQAAAAM/kakashi-naruto.gif">
 </div>
 <hr>
- <br>
+
 <div> 
   <a href="https://www.instagram.com/gabiesz/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/gabrielasouza-/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
